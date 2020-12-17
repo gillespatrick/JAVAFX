@@ -1,0 +1,9 @@
+.label {
+    -fx-text-alignment:center;
+    -fx-font-family:cursive;
+    -fx-font-size: 24;
+    -fx-font-style: italic;
+    -fx-font-weigth:bold;
+    -fx-border-style: dotted;
+    -fx-border-color:red;
+}
